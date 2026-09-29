@@ -13,3 +13,5 @@ Na pasta `MeuPrimeiroTeste.App`, rode:
 ```bash
 dotnet run
 ```
+
+Aluno: Lucas Paiva Magalhães
